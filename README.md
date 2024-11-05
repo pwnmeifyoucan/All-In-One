@@ -6,4 +6,4 @@ J'ai écrit ce site Web avant de connaître les frameworks comme $${\color{orang
 
 Pour l’instant, nous nous concentrons uniquement sur le contenu des défis. donc le site n'est pas très esthétique.
 
-Les fichiers de configuration du challenge sont dans le répertoire **$${\color{orange}defi}$$**
+Les fichiers de configuration du challenge sont dans le répertoire **$${\color{blue}defi}$$**
